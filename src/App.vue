@@ -7,5 +7,5 @@
 </template>
 
 <script lang="ts" setup>
-  //
+  console.log(import.meta.env.BASE_URL)
 </script>
